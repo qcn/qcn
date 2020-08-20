@@ -1,4 +1,6 @@
+<p align="center">
 ### 🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰
+</p>
 
 Hello! I'm QC, a very normal human being and _definitely not a rabbit at all_, unless I actually _am_. How mysterious.
 
