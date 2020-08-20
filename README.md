@@ -4,6 +4,8 @@
 
 Hello! I'm QC, a very normal human being and _definitely not a rabbit at all_, unless I actually _am_. How mysterious.
 
+Things I care very deeply about: continued use of vim.
+
 <h3 align="center">
 🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰
 </h3>
