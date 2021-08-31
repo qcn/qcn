@@ -4,6 +4,8 @@
 
 Hello! I'm QC, a very normal human being and _definitely not a rabbit at all_, unless I actually _am_. How mysterious.
 
+I own all the board games.
+
 Things I care very deeply about: vim.
 
 <h3 align="center">
@@ -12,7 +14,7 @@ Things I care very deeply about: vim.
 
 I'm forever trying to think of creative things to do with personal profiles, and this just adds one more to the list. Thanks, GitHub.
 
-While I decide what to put here, you can try my [Twitter](https://twitter.com/priority_q) for a Fun Roulette of Disney Channel rewatches, board game conversation, bunny pictures, and the occasional tech-related retweet. Sometimes I [play violin too](https://www.youtube.com/channel/UCkVKV1oJbgKT9TYzD0bLQpw), I guess.
+While I decide what to put here, you can try my [Twitter](https://twitter.com/priority_q), where I shill for vaccinations, passive-aggressively subtweet strangers (is there any other way to subtweet?), and retweet bunny pictures. Sometimes I [play violin too](https://www.youtube.com/channel/UCkVKV1oJbgKT9TYzD0bLQpw), I guess.
 
 <h3 align="center">
 🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰
