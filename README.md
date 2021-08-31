@@ -2,7 +2,7 @@
 🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰
 </h3>
 
-Hello! I'm QC, a very normal human being and _definitely not a rabbit at all_, unless I actually _am_. How mysterious.
+Hello! I'm QC, a very normal human being and _definitely not a rabbit at all_. How mysterious.
 
 I own all the board games.
 
