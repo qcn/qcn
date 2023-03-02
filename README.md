@@ -12,7 +12,7 @@ Things I care very deeply about: vim.
 🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰
 </h3>
 
-I'm a 10x ninja rockstar wizard building science education resources at [@StileEducation](https://github.com/StileEducation). If that sounds interesting to you, [we're hiring](https://stileeducation.com/who-we-are/engineering-at-stile/)!
+I'm a 10x ninja rockstar wizard building science education resources at [@StileEducation](https://github.com/StileEducation).
 
 <h3 align="center">
 🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰
