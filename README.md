@@ -12,7 +12,7 @@ Things I care very deeply about: vim.
 🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰
 </h3>
 
-I'm a 10x ninja rockstar wizard building science education resources at [@StileEducation](https://github.com/StileEducation).
+I'm a 10x ninja rockstar wizard. My old manager said so.
 
 <h3 align="center">
 🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰
@@ -20,7 +20,7 @@ I'm a 10x ninja rockstar wizard building science education resources at [@StileE
 
 I'm forever trying to think of creative things to do with personal profiles, and this just adds one more to the list. Thanks, GitHub.
 
-While I decide what to put here, you can try my [Twitter](https://twitter.com/priority_q), where I shill for vaccinations, passive-aggressively subtweet strangers (is there any other way to subtweet?), and retweet bunny pictures. Sometimes I [play violin too](https://www.youtube.com/channel/UCkVKV1oJbgKT9TYzD0bLQpw), I guess.
+While I decide what to put here, you can try my [Bluesky](https://qcn.bsky.social), where I do almost nothing. Sometimes I [play violin too](https://www.youtube.com/channel/UCkVKV1oJbgKT9TYzD0bLQpw), I guess.
 
 <h3 align="center">
 🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰🐇🐰
